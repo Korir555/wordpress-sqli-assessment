@@ -1,0 +1,5 @@
+reports/
+vulnerabilities/
+venv/
+__pycache__/
+*.pcap
